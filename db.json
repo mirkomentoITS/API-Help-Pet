@@ -1,311 +1,350 @@
 {
-  "shelters": [
+  "shelters": 
+  [
     {
       "id": "IT01",
-      "nome": "Parco Rifugio",
-      "città": "Milano",
-      "via": "Via Privata Aquila, 81",
-      "distanza": 200,
-      "contatto": "011 8844 6310",
-      "disponibilità": ["adozione"]
+      "name": "Parco Rifugio",
+      "image": "https://mohawkhumane.org/sites/default/files/2019-04/FontBldgView.jpg",
+      "city": "Milano",
+      "address": "Via Aquila, 81",
+      "distance": 200,
+      "number": "011 884 6310",
+      "placement": ["adozione"]
     },
     {
       "id": "IT02",
-      "nome": "Rifugio Il Bau",
-      "città": "Torino",
-      "via": "Via Caselette, 71",
-      "distanza": 5,
-      "contatto": "339 813 9335",
-      "disponibilità": ["adozione", "affido"]
+      "name": "Rifugio Il Bau",
+      "image": "https://steelefreeman.com/wp-content/uploads/2019/06/Quorum-Gary-Logan-Animal-009-1024x535.jpg",
+      "city": "Torino",
+      "address": "Via Caselette, 71",
+      "distance": 38,
+      "number": "339 813 9335",
+      "placement": ["adozione", "affido"]
     },
     {
       "id": "IT03",
-      "nome": "L'Arca di Noè",
-      "città": "Bologna",
-      "via": "Via Emilia 210",
-      "distanza": 340,
-      "contatto": "011 677 9450",
-      "disponibilità": ["adozione", "affido"]
+      "name": "L'Arca di Noè",
+      "image": "https://www.geraldnell.com/wp-content/uploads/2019/10/haws-1.jpg",
+      "city": "Bologna",
+      "address": "Via Emilia, 210",
+      "distance": 340,
+      "number": "011 677 9450",
+      "placement": ["adozione", "affido"]
     },
     {
       "id": "IT04",
-      "nome": "Rifugio Colle Romano",
-      "città": "Roma",
-      "via": "Via Aurelia 10",
-      "distanza": 540,
-      "contatto": "011 442 7789",
-      "disponibilità": ["adozione"]
+      "name": "Rifugio Il Colle",
+      "image": "https://www.facilitiesnet.com/resources/editorial/2024/grapevine-animal-shelter-900x500.jpg",
+      "city": "Roma",
+      "address": "Via Aurelia, 10",
+      "distance": 540,
+      "number": "011 442 7789",
+      "placement": ["adozione"]
     },
     {
       "id": "IT05",
-      "nome": "Rifugio Arno",
-      "città": "Firenze",
-      "via": "Via Senese 45",
-      "distanza": 430,
-      "contatto": "336 334 2211",
-      "disponibilità": ["adozione", "affido"]
+      "name": "Rifugio Arno",
+      "image": "https://i.pinimg.com/originals/91/39/7c/91397c4df623bdbe2b9853b7e40117ce.jpg",
+      "city": "Firenze",
+      "address": "Via Senese, 45",
+      "distance": 430,
+      "number": "336 334 2211",
+      "placement": ["adozione", "affido"]
+    },
+    {
+      "id": "IT06",
+      "name": "Rifugio Noco",
+      "image": "https://townsquare.media/site/48/files/2025/09/attachment-1-417.jpg",
+      "city": "Verona",
+      "address": "Via delle Cave, 12",
+      "distance": 180,
+      "number": "011 779 9123",
+      "placement": ["adozione"]
+    },
+    {
+      "id": "IT07",
+      "name": "Canile Aurora",
+      "image": "https://craigrd.com/wp-content/uploads/2021/04/MVI_3606.MP4.00_00_07_18.Still001-1024x576.png",
+      "city": "Genova",
+      "address": "Via del Porto, 66",
+      "distance": 310,
+      "number": "343 556 4412",
+      "placement": ["adozione", "affido"]
+    },
+    {
+      "id": "IT08",
+      "name": "Rifugio Collin",
+      "image": "https://totallyboise.com/Portals/0/xBlog/IdahoHumaneSociety/humane1.jpg",
+      "city": "Perugia",
+      "address": "Strada Iaconi, 5",
+      "distance": 470,
+      "number": "378 902 1880",
+      "placement": ["affido"]
+    },
+    {
+      "id": "IT09",
+      "name": "Canile del Sud",
+      "image": "https://incohumanesociety.com/wpbhd/wp-content/uploads/2025/02/Indiana-County-Humane-Society-1024x656.jpg",
+      "city": "Bari",
+      "address": "Via Bitonto, 101",
+      "distance": 1020,
+      "number": "011 334 9091",
+      "placement": ["adozione", "affido"]
+    },
+    {
+      "id": "IT10",
+      "name": "Rifugio Zampa",
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/gqExrtK8owXb_QE4TcANag/l.jpg",
+      "city": "Cagliari",
+      "address": "Via Saline, 27",
+      "distance": 980,
+      "number": "339 661 2455",
+      "placement": ["adozione"]
+    },
+    {
+      "id": "IT11",
+      "name": "Parcheggio Pet",
+      "image": "https://i.pinimg.com/736x/97/ec/7b/97ec7b341035627f06aa396600046acb.jpg",
+      "city": "Trento",
+      "address": "Via Valverde, 9",
+      "distance": 260,
+      "number": "011 891 3070",
+      "placement": ["adozione", "affido"]
+    },
+    {
+      "id": "IT12",
+      "name": "Rifugio Pinko",
+      "image": "https://images.crexi.com/lease-assets/884030/8e9a0297608d4f0bb1fa2015568353a6_716x444.jpg",
+      "city": "Lecce",
+      "address": "Via Adriatica, 44",
+      "distance": 910,
+      "number": "331 772 6540",
+      "placement": ["affido"]
     }
   ],
 
-  "animals": [
-    {
-      "id": 1,
-      "nome": "Tigro",
-      "tipo": "gatto",
-      "anni": 8,
-      "canile": "IT01",
-      "foto": "https://cdn2.thecatapi.com/images/cc5.jpg"
-    },
-    {
-      "id": 2,
-      "nome": "Max",
-      "tipo": "cane",
-      "anni": 5,
-      "canile": "IT01",
-      "foto": "https://images.dog.ceo/breeds/terrier-border/n02093754_2425.jpg"
-    },
-    {
-      "id": 3,
-      "nome": "Rocky",
-      "tipo": "cane",
-      "anni": 2,
-      "canile": "IT01",
-      "foto": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1891.jpg"
-    },
-    {
-      "id": 4,
-      "nome": "Bella",
-      "tipo": "cane",
-      "anni": 4,
-      "canile": "IT01",
-      "foto": "https://images.dog.ceo/breeds/papillon/n02086910_3338.jpg"
-    },
-    {
-      "id": 5,
-      "nome": "Maya",
-      "tipo": "cane",
-      "anni": 9,
-      "canile": "IT02",
-      "foto": "https://images.dog.ceo/breeds/pitbull/pitbull_dog.jpg"
-    },
-    {
-      "id": 6,
-      "nome": "Luna",
-      "tipo": "gatto",
-      "anni": 4,
-      "canile": "IT02",
-      "foto": "https://cdn2.thecatapi.com/images/MTUxMzEzNg.jpg"
-    },
-    {
-      "id": 7,
-      "nome": "Kira",
-      "tipo": "cane",
-      "anni": 7,
-      "canile": "IT02",
-      "foto": "https://images.dog.ceo/breeds/german-shepherd/n02106662_2358.jpg"
-    },
-    {
-      "id": 8,
-      "nome": "Leo",
-      "tipo": "cane",
-      "anni": 1,
-      "canile": "IT02",
-      "foto": "https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20190601_185700.jpg"
-    },
-    {
-      "id": 9,
-      "nome": "Lily",
-      "tipo": "cane",
-      "anni": 11,
-      "canile": "IT03",
-      "foto": "https://images.dog.ceo/breeds/briard/n02105251_1201.jpg"
-    },
-    {
-      "id": 10,
-      "nome": "Molly",
-      "tipo": "gatto",
-      "anni": 6,
-      "canile": "IT03",
-      "foto": "https://cdn2.thecatapi.com/images/ho.jpg"
-    },
-    {
-      "id": 11,
-      "nome": "Flash",
-      "tipo": "gatto",
-      "anni": 3,
-      "canile": "IT03",
-      "foto": "https://cdn2.thecatapi.com/images/MTY4MjA2MA.jpg"
-    },
-    {
-      "id": 12,
-      "nome": "Yala",
-      "tipo": "cane",
-      "anni": 7,
-      "canile": "IT03",
-      "foto": "https://images.dog.ceo/breeds/kuvasz/n02104029_3207.jpg"
-    },
-    {
-      "id": 13,
-      "nome": "Zeus",
-      "tipo": "cane",
-      "anni": 6,
-      "canile": "IT04",
-      "foto": "https://images.dog.ceo/breeds/terrier-norfolk/n02094114_2158.jpg"
-    },
-    {
-      "id": 14,
-      "nome": "Argo",
-      "tipo": "cane",
-      "anni": 2,
-      "canile": "IT04",
-      "foto": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_2436.jpg"
-    },
-    {
-      "id": 15,
-      "nome": "Micia",
-      "tipo": "gatto",
-      "anni": 9,
-      "canile": "IT04",
-      "foto": "https://cdn2.thecatapi.com/images/KBroiVNCM.jpg"
-    },
-    {
-      "id": 16,
-      "nome": "Ombra",
-      "tipo": "gatto",
-      "anni": 5,
-      "canile": "IT04",
-      "foto": "https://cdn2.thecatapi.com/images/Kjf-Z_8YE.jpg"
-    },
-    {
-      "id": 17,
-      "nome": "Rex",
-      "tipo": "cane",
-      "anni": 6,
-      "canile": "IT05",
-      "foto": "https://images.dog.ceo/breeds/cavapoo/doggo3.jpg"
-    },
-    {
-      "id": 18,
-      "nome": "Daisy",
-      "tipo": "cane",
-      "anni": 4,
-      "canile": "IT05",
-      "foto": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_2677.jpg"
-    },
-    {
-      "id": 19,
-      "nome": "Millo",
-      "tipo": "cane",
-      "anni": 8,
-      "canile": "IT05",
-      "foto": "https://images.dog.ceo/breeds/terrier-toy/n02087046_924.jpg"
-    },
-    {
-      "id": 20,
-      "nome": "Lola",
-      "tipo": "gatto",
-      "anni": 12,
-      "canile": "IT05",
-      "foto": "https://cdn2.thecatapi.com/images/MTg0NzE0MQ.jpg"
-    }
+
+
+
+  "animals": 
+  [
+    { "name": "Tigro", "type": "gatto", "gender": "maschio", "age": 8, "shelter": "IT01", "image": "https://cdn2.thecatapi.com/images/cc5.jpg", "desc": "Gatto tranquillo ama dormire al sole" },
+    { "name": "Max", "type": "cane", "gender": "maschio", "age": 5, "shelter": "IT01", "image": "https://images.dog.ceo/breeds/terrier-border/n02093754_2425.jpg", "desc": "Cane energico ama lunghe passeggiate quotidiane" },
+    { "name": "Rocky", "type": "cane", "gender": "maschio", "age": 2, "shelter": "IT01", "image": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_1891.jpg", "desc": "Cucciolo vivace sempre pronto a giocare" },
+    { "name": "Bella", "type": "cane", "gender": "femmina", "age": 4, "shelter": "IT01", "image": "https://images.dog.ceo/breeds/papillon/n02086910_3338.jpg", "desc": "Dolce e socievole con tutti gli umani" },
+    { "name": "Nina", "type": "gatto", "gender": "femmina", "age": 6, "shelter": "IT01", "image": "https://cdn2.thecatapi.com/images/3ec.jpg", "desc": "Gatta indipendente ma affettuosa con fiducia" },
+    { "name": "Bruno", "type": "cane", "gender": "maschio", "age": 7, "shelter": "IT01", "image": "https://images.dog.ceo/breeds/terrier-silky/n02097658_2041.jpg", "desc": "Fedele e calmo ottimo compagno famiglia" },
+    { "name": "Zoe", "type": "gatto", "gender": "femmina", "age": 1, "shelter": "IT01", "image": "https://cdn2.thecatapi.com/images/2m5.jpg", "desc": "Gattina giovane piena di energia giocosa" },
+    { "name": "Otto", "type": "cane", "gender": "maschio", "age": 9, "shelter": "IT01", "image": "https://images.dog.ceo/breeds/terrier-patterdale/Patterdale.jpg", "desc": "Anziano tranquillo ama riposare vicino persone" },
+
+    { "name": "Maya", "type": "cane", "gender": "femmina", "age": 9, "shelter": "IT02", "image": "https://images.dog.ceo/breeds/pitbull/pitbull_dog.jpg", "desc": "Protettiva ma dolce con persone fidate" },
+    { "name": "Luna", "type": "gatto", "gender": "femmina", "age": 4, "shelter": "IT02", "image": "https://cdn2.thecatapi.com/images/MTUxMzEzNg.jpg", "desc": "Gatta elegante ama luoghi tranquilli silenziosi" },
+    { "name": "Leo", "type": "cane", "gender": "maschio", "age": 1, "shelter": "IT02", "image": "https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20190601_185700.jpg", "desc": "Cucciolo curioso scopre il mondo felice" },
+    { "name": "Sasha", "type": "cane", "gender": "femmina", "age": 3, "shelter": "IT02", "image": "https://images.dog.ceo/breeds/chihuahua/n02085620_3208.jpg", "desc": "Vivace ama correre nei prati aperti" },
+    { "name": "Misty", "type": "gatto", "gender": "femmina", "age": 2, "shelter": "IT02", "image": "https://cdn2.thecatapi.com/images/b80.jpg", "desc": "Timida ma dolce con approccio paziente" },
+    { "name": "Rudy", "type": "cane", "gender": "maschio", "age": 6, "shelter": "IT02", "image": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_3641.jpg", "desc": "Forte ma equilibrato buon cane guardia" },
+    { "name": "Nala", "type": "gatto", "gender": "femmina", "age": 5, "shelter": "IT02", "image": "https://cdn2.thecatapi.com/images/bvG8QGrnU.jpg", "desc": "Affettuosa ama coccole e tranquillità assoluta" },
+    { "name": "Oscar", "type": "cane", "gender": "maschio", "age": 8, "shelter": "IT02", "image": "https://images.dog.ceo/breeds/lhasa/n02098413_4592.jpg", "desc": "Calmo anziano cerca casa stabile sicura" },
+
+    { "name": "Lily", "type": "cane", "gender": "femmina", "age": 11, "shelter": "IT03", "image": "https://images.dog.ceo/breeds/briard/n02105251_1201.jpg", "desc": "Anziana dolce ama compagnia umana costante" },
+    { "name": "Molly", "type": "gatto", "gender": "femmina", "age": 6, "shelter": "IT03", "image": "https://cdn2.thecatapi.com/images/ho.jpg", "desc": "Equilibrata osserva tutto con calma naturale" },
+    { "name": "Flash", "type": "gatto", "gender": "maschio", "age": 3, "shelter": "IT03", "image": "https://cdn2.thecatapi.com/images/MTY4MjA2MA.jpg", "desc": "Velocissimo sempre in movimento curioso" },
+    { "name": "Yala", "type": "cane", "gender": "femmina", "age": 7, "shelter": "IT03", "image": "https://images.dog.ceo/breeds/kuvasz/n02104029_3207.jpg", "desc": "Fedele e stabile ottimo cane adulto" },
+    { "name": "Mira", "type": "gatto", "gender": "femmina", "age": 1, "shelter": "IT03", "image": "https://cdn2.thecatapi.com/images/2iu.jpg", "desc": "Gattina piccola molto curiosa e attiva" },
+    { "name": "Lupo", "type": "cane", "gender": "maschio", "age": 9, "shelter": "IT03", "image": "https://images.dog.ceo/breeds/entlebucher/n02108000_2369.jpg", "desc": "Anziano forte ma molto tranquillo fedele" },
+    { "name": "Sissi", "type": "gatto", "gender": "femmina", "age": 4, "shelter": "IT03", "image": "https://cdn2.thecatapi.com/images/9cbCzlbJt.jpg", "desc": "Affettuosa cerca attenzioni costanti dolcemente" },
+    { "name": "Koko", "type": "gatto", "gender": "maschio", "age": 7, "shelter": "IT03", "image": "https://cdn2.thecatapi.com/images/dsv.jpg", "desc": "Indipendente osserva tutto con distacco elegante" },
+
+    { "name": "Zeus", "type": "cane", "gender": "maschio", "age": 6, "shelter": "IT04", "image": "https://images.dog.ceo/breeds/terrier-norfolk/n02094114_2158.jpg", "desc": "Grande ma buono ama le persone" },
+    { "name": "Argo", "type": "cane", "gender": "maschio", "age": 2, "shelter": "IT04", "image": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_2436.jpg", "desc": "Giovane attento molto intelligente rapido" },
+    { "name": "Micia", "type": "gatto", "gender": "femmina", "age": 9, "shelter": "IT04", "image": "https://cdn2.thecatapi.com/images/KBroiVNCM.jpg", "desc": "Anziana tranquilla cerca riposo costante" },
+    { "name": "Ombra", "type": "gatto", "gender": "femmina", "age": 5, "shelter": "IT04", "image": "https://cdn2.thecatapi.com/images/Kjf-Z_8YE.jpg", "desc": "Silenziosa osserva tutto da distanza sicura" },
+    { "name": "Thor", "type": "cane", "gender": "maschio", "age": 4, "shelter": "IT04", "image": "https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20191105_141904.jpg", "desc": "Forte e leale ottimo cane protettivo" },
+    { "name": "Fiamma", "type": "gatto", "gender": "femmina", "age": 2, "shelter": "IT04", "image": "https://cdn2.thecatapi.com/images/TBA3JzB9P.jpg", "desc": "Giocosa e veloce ama inseguire luci" },
+    { "name": "Nero", "type": "gatto", "gender": "maschio", "age": 3, "shelter": "IT04", "image": "https://cdn2.thecatapi.com/images/uTFc4z0wP.jpg", "desc": "Curioso esplora ambienti nuovi con cautela" },
+    { "name": "Dado", "type": "cane", "gender": "maschio", "age": 10, "shelter": "IT04", "image": "https://images.dog.ceo/breeds/terrier-cairn/n02096177_1913.jpg", "desc": "Vecchio saggio molto tranquillo e docile" },
+
+    { "name": "Rex", "type": "cane", "gender": "maschio", "age": 6, "shelter": "IT05", "image": "https://images.dog.ceo/breeds/cavapoo/doggo3.jpg", "desc": "Fedele e attento sempre protettivo famiglia" },
+    { "name": "Daisy", "type": "cane", "gender": "femmina", "age": 4, "shelter": "IT05", "image": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_2677.jpg", "desc": "Dolce socievole ama giocare all'aperto sempre" },
+    { "name": "Lola", "type": "gatto", "gender": "femmina", "age": 12, "shelter": "IT05", "image": "https://cdn2.thecatapi.com/images/MTg0NzE0MQ.jpg", "desc": "Anziana tranquilla ama sonno e quiete" },
+    { "name": "Sky", "type": "gatto", "gender": "femmina", "age": 3, "shelter": "IT05", "image": "https://cdn2.thecatapi.com/images/3XUcuC9fj.jpg", "desc": "Leggera e curiosa esplora ogni spazio" },
+    { "name": "Bax", "type": "cane", "gender": "maschio", "age": 2, "shelter": "IT05", "image": "https://images.dog.ceo/breeds/samoyed/n02111889_5932.jpg", "desc": "Giovane energico sempre pronto a correre" },
+    { "name": "Mina", "type": "gatto", "gender": "femmina", "age": 5, "shelter": "IT05", "image": "https://cdn2.thecatapi.com/images/447.jpg", "desc": "Affettuosa cerca contatto umano continuo" },
+    { "name": "Roki", "type": "cane", "gender": "maschio", "age": 7, "shelter": "IT05", "image": "https://images.dog.ceo/breeds/setter-gordon/n02101006_1202.jpg", "desc": "Robusto ma buono adatto a vita attiva" },
+    { "name": "Ettore", "type": "cane", "gender": "maschio", "age": 9, "shelter": "IT05", "image": "https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg", "desc": "Esperto tranquillo ama riposo costante sicuro" },
+
+    { "name": "Nico", "type": "cane", "gender": "maschio", "age": 3, "shelter": "IT06", "image": "https://images.dog.ceo/breeds/whippet/n02091134_2235.jpg", "desc": "Giovane curioso ama esplorare ambienti nuovi" },
+    { "name": "Brio", "type": "cane", "gender": "maschio", "age": 6, "shelter": "IT06", "image": "https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg", "desc": "Forte e leale molto protettivo famiglia" },
+    { "name": "Mia", "type": "gatto", "gender": "femmina", "age": 2, "shelter": "IT06", "image": "https://cdn2.thecatapi.com/images/hKfi8yYSx.jpg", "desc": "Piccola vivace sempre in movimento rapido" },
+    { "name": "Balto", "type": "cane", "gender": "maschio", "age": 8, "shelter": "IT06", "image": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_1030.jpg", "desc": "Calmo e esperto ottimo cane guida" },
+    { "name": "Sole", "type": "gatto", "gender": "maschio", "age": 5, "shelter": "IT06", "image": "https://cdn2.thecatapi.com/images/MTgzODU5MQ.jpg", "desc": "Affettuoso ama calore e luce naturale" },
+    { "name": "Aria", "type": "cane", "gender": "femmina", "age": 1, "shelter": "IT06", "image": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_3726.jpg", "desc": "Cucciolo energico scopre il mondo felice" },
+    { "name": "Cleo", "type": "gatto", "gender": "femmina", "age": 3, "shelter": "IT06", "image": "https://cdn2.thecatapi.com/images/utX9jo5EO.jpg", "desc": "Dolce e affettuosa ama coccole leggere" },
+    { "name": "Toby", "type": "cane", "gender": "maschio", "age": 5, "shelter": "IT06", "image": "https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_002.jpg", "desc": "Equilibrato adatto a famiglie con bambini" },
+
+    { "name": "Saki", "type": "gatto", "gender": "maschio", "age": 2, "shelter": "IT07", "image": "https://cdn2.thecatapi.com/images/7ll.jpg", "desc": "Curioso e rapido esplora tutto intorno" },
+    { "name": "Paco", "type": "cane", "gender": "maschio", "age": 4, "shelter": "IT07", "image": "https://images.dog.ceo/breeds/chow/n02112137_10430.jpg", "desc": "Giocoso e intelligente impara rapidamente comandi" },
+    { "name": "Kiro", "type": "gatto", "gender": "maschio", "age": 3, "shelter": "IT07", "image": "https://cdn2.thecatapi.com/images/djm.jpg", "desc": "Indipendente e agile ama spazi aperti" },
+    { "name": "Iris", "type": "gatto", "gender": "femmina", "age": 6, "shelter": "IT07", "image": "https://cdn2.thecatapi.com/images/MjAwMzk5OA.jpg", "desc": "Tranquilla osserva tutto con attenzione calma" },
+    { "name": "Kira", "type": "cane", "gender": "femmina", "age": 7, "shelter": "IT07", "image": "https://images.dog.ceo/breeds/german-shepherd/n02106662_2358.jpg", "desc": "Esperta e calma ottima per famiglie" },
+    { "name": "Gaia", "type": "gatto", "gender": "femmina", "age": 8, "shelter": "IT07", "image": "https://cdn2.thecatapi.com/images/d6v.jpg", "desc": "Anziana calma ama routine quotidiana stabile" },
+    { "name": "Brisa", "type": "cane", "gender": "femmina", "age": 7, "shelter": "IT07", "image": "https://images.dog.ceo/breeds/setter-gordon/n02101006_1871.jpg", "desc": "Calma e gentile perfetta per anziani" },
+    { "name": "Milo", "type": "gatto", "gender": "maschio", "age": 1, "shelter": "IT07", "image": "https://cdn2.thecatapi.com/images/a6d.jpg", "desc": "Gattino piccolo curioso esploratore instancabile" },
+
+    { "name": "Zeno", "type": "cane", "gender": "maschio", "age": 6, "shelter": "IT08", "image": "https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_004.jpg", "desc": "Calmo e forte ottimo compagno adulto" },
+    { "name": "Tara", "type": "gatto", "gender": "femmina", "age": 4, "shelter": "IT08", "image": "https://cdn2.thecatapi.com/images/0ugO2xZ2n.jpg", "desc": "Elegante e silenziosa ama osservare tutto" },
+    { "name": "Rexy", "type": "cane", "gender": "maschio", "age": 2, "shelter": "IT08", "image": "https://images.dog.ceo/breeds/papillon/n02086910_8613.jpg", "desc": "Giovane energico ama giochi all'aperto" },
+    { "name": "Lia", "type": "gatto", "gender": "femmina", "age": 7, "shelter": "IT08", "image": "https://cdn2.thecatapi.com/images/ayEJiATFy.jpg", "desc": "Indipendente e calma molto osservatrice attenta" },
+    { "name": "Fumo", "type": "cane", "gender": "maschio", "age": 8, "shelter": "IT08", "image": "https://images.dog.ceo/breeds/shiba/shiba-13.jpg", "desc": "Esperto e fedele cane molto equilibrato" },
+    { "name": "Pico", "type": "gatto", "gender": "maschio", "age": 1, "shelter": "IT08", "image": "https://cdn2.thecatapi.com/images/efq.jpg", "desc": "Piccolo curioso sempre in movimento rapido" },
+    { "name": "Faro", "type": "cane", "gender": "maschio", "age": 5, "shelter": "IT08", "image": "https://images.dog.ceo/breeds/setter-english/n02100735_6303.jpg", "desc": "Protettivo e attento molto affidabile fedele" },
+    { "name": "Divo", "type": "cane", "gender": "maschio", "age": 9, "shelter": "IT08", "image": "https://images.dog.ceo/breeds/sheepdog-indian/Himalayan_Sheepdog.jpg", "desc": "Anziano tranquillo ama riposo e quiete" },
+
+    { "name": "Loki", "type": "cane", "gender": "maschio", "age": 4, "shelter": "IT09", "image": "https://images.dog.ceo/breeds/dane-great/n02109047_1260.jpg", "desc": "Vivace e intelligente ama correre libero" },
+    { "name": "Pixie", "type": "gatto", "gender": "femmina", "age": 5, "shelter": "IT09", "image": "https://cdn2.thecatapi.com/images/9hr.jpg", "desc": "Affettuosa cerca sempre contatto umano" },
+    { "name": "Drago", "type": "cane", "gender": "maschio", "age": 7, "shelter": "IT09", "image": "https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_5073.jpg", "desc": "Forte e stabile ottimo cane guardia" },
+    { "name": "Stella", "type": "gatto", "gender": "femmina", "age": 10, "shelter": "IT09", "image": "https://cdn2.thecatapi.com/images/dvs.jpg", "desc": "Elegante silenziosa osserva tutto con attenzione" },
+    { "name": "Aldo", "type": "cane", "gender": "maschio", "age": 9, "shelter": "IT09", "image": "https://images.dog.ceo/breeds/dhole/n02115913_1233.jpg", "desc": "Anziano calmo cerca vita tranquilla stabile" },
+    { "name": "Orso", "type": "gatto", "gender": "maschio", "age": 3, "shelter": "IT09", "image": "https://cdn2.thecatapi.com/images/386.jpg", "desc": "Curioso esplora ogni angolo del rifugio" },
+    { "name": "Fido", "type": "cane", "gender": "maschio", "age": 6, "shelter": "IT09", "image": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_5943.jpg", "desc": "Equilibrato e fedele adatto famiglie" },
+    { "name": "Puma", "type": "gatto", "gender": "maschio", "age": 6, "shelter": "IT09", "image": "https://cdn2.thecatapi.com/images/MTg2Mzk0Mg.jpg", "desc": "Agile e indipendente ama libertà totale" },
+
+    { "name": "Duca", "type": "gatto", "gender": "maschio", "age": 5, "shelter": "IT10", "image": "https://cdn2.thecatapi.com/images/b6j.jpg", "desc": "Silenzioso e osservatore molto indipendente elegante" },
+    { "name": "Duna", "type": "cane", "gender": "femmina", "age": 3, "shelter": "IT10", "image": "https://images.dog.ceo/breeds/akita/Akita_inu_blanc.jpg", "desc": "Giovane energica ama correre in libertà" },
+    { "name": "Baldo", "type": "cane", "gender": "maschio", "age": 7, "shelter": "IT10", "image": "https://images.dog.ceo/breeds/terrier-australian/n02096294_2432.jpg", "desc": "Fedele e stabile ottimo compagno adulto" },
+    { "name": "Lilla", "type": "gatto", "gender": "femmina", "age": 2, "shelter": "IT10", "image": "https://cdn2.thecatapi.com/images/tu.jpg", "desc": "Piccola vivace sempre molto curiosa attiva" },
+    { "name": "Griso", "type": "cane", "gender": "maschio", "age": 8, "shelter": "IT10", "image": "https://images.dog.ceo/breeds/sharpei/noel.jpg", "desc": "Anziano forte ma molto tranquillo sicuro" },
+    { "name": "Lumi", "type": "gatto", "gender": "maschio", "age": 6, "shelter": "IT10", "image": "https://cdn2.thecatapi.com/images/9a4.jpg", "desc": "Caldo e affettuoso ama il sole" },
+    { "name": "Perla", "type": "gatto", "gender": "femmina", "age": 4, "shelter": "IT10", "image": "https://cdn2.thecatapi.com/images/416.jpg", "desc": "Elegante e indipendente osserva tutto silenziosa" },
+    { "name": "Rocco", "type": "cane", "gender": "maschio", "age": 9, "shelter": "IT10", "image": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_435.jpg", "desc": "Esperto e tranquillo molto fedele stabile" },
+
+    { "name": "Zara", "type": "gatto", "gender": "femmina", "age": 1, "shelter": "IT11", "image": "https://cdn2.thecatapi.com/images/YZGOUtRQ1.jpg", "desc": "Gattina piccola piena energia e curiosità" },
+    { "name": "Tito", "type": "cane", "gender": "maschio", "age": 6, "shelter": "IT11", "image": "https://images.dog.ceo/breeds/puggle/IMG_112010.jpg", "desc": "Fedele e attento ottimo cane adulto" },
+    { "name": "Frida", "type": "cane", "gender": "femmina", "age": 4, "shelter": "IT11", "image": "https://images.dog.ceo/breeds/malamute/n02110063_7911.jpg", "desc": "Vivace e giocosa ama correre libero" },
+    { "name": "Miele", "type": "gatto", "gender": "femmina", "age": 3, "shelter": "IT11", "image": "https://cdn2.thecatapi.com/images/871.jpg", "desc": "Dolce e affettuosa cerca contatto umano" },
+    { "name": "Asso", "type": "cane", "gender": "maschio", "age": 8, "shelter": "IT11", "image": "https://images.dog.ceo/breeds/terrier-norfolk/n02094114_2625.jpg", "desc": "Esperto e stabile ottimo cane guida" },
+    { "name": "Gemma", "type": "gatto", "gender": "femmina", "age": 6, "shelter": "IT11", "image": "https://cdn2.thecatapi.com/images/b5t.jpg", "desc": "Elegante indipendente osserva tutto silenziosamente" },
+    { "name": "Pluto", "type": "cane", "gender": "maschio", "age": 5, "shelter": "IT11", "image": "https://images.dog.ceo/breeds/appenzeller/n02107908_5378.jpg", "desc": "Socievole e allegro sempre amichevole umano" },
+    { "name": "Teo", "type": "gatto", "gender": "maschio", "age": 1, "shelter": "IT11", "image": "https://cdn2.thecatapi.com/images/25a.jpg", "desc": "Gattino piccolo curioso esploratore instancabile" },
+
+    { "name": "Ambra", "type": "gatto", "gender": "femmina", "age": 4, "shelter": "IT12", "image": "https://cdn2.thecatapi.com/images/bp5.jpg", "desc": "Elegante silenziosa osserva tutto con calma" },
+    { "name": "Ugo", "type": "cane", "gender": "maschio", "age": 7, "shelter": "IT12", "image": "https://images.dog.ceo/breeds/dingo/n02115641_4692.jpg", "desc": "Fedele e stabile ottimo compagno adulto" },
+    { "name": "Fata", "type": "gatto", "gender": "femmina", "age": 2, "shelter": "IT12", "image": "https://cdn2.thecatapi.com/images/79m.jpg", "desc": "Piccola vivace sempre in movimento rapido" },
+    { "name": "Orione", "type": "cane", "gender": "maschio", "age": 8, "shelter": "IT12", "image": "https://images.dog.ceo/breeds/mix/piper.jpg", "desc": "Anziano forte ma molto tranquillo fedele" },
+    { "name": "Brina", "type": "gatto", "gender": "femmina", "age": 6, "shelter": "IT12", "image": "https://cdn2.thecatapi.com/images/b1s.jpg", "desc": "Caldo e affettuoso ama luce naturale" },
+    { "name": "Dago", "type": "cane", "gender": "maschio", "age": 3, "shelter": "IT12", "image": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20200416_142905_108884348190285.jpg", "desc": "Giovane attento molto intelligente rapido apprende" },
+    { "name": "Cipria", "type": "gatto", "gender": "femmina", "age": 3, "shelter": "IT12", "image": "https://cdn2.thecatapi.com/images/bke.jpg", "desc": "Indipendente trascorre giornate quotidiane" },
+    { "name": "Simo", "type": "cane", "gender": "maschio", "age": 9, "shelter": "IT12", "image": "https://images.dog.ceo/breeds/pointer-german/n02100236_4755.jpg", "desc": "Anziano esperto cerca riposo stabile sicuro" }
   ],
 
-  "missings": [
+
+
+
+ "missings": 
+  [
     {
-      "id": 1,
-      "nome": "Fido",
-      "tipo": "cane",
-      "anni": 6,
-      "foto": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_2690.jpg",
-      "descrizione": "chihuahua a macchie, nessun collare, taglia piccola",
-      "ultimaPosizione": "Parco Nord, Vinovo",
-      "ultimaPosizioneLatLong": [44.9481, 7.6384],
-      "contatto": "+39 332 455 7875",
-      "dataSegnalazione": "2026-04-22"
+     "id": "MISS01",
+     "name": "Fido",
+     "type": "cane",
+     "age": 6,
+     "image": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_2690.jpg",
+     "desc": "chihuahua a macchie, nessun collare, taglia piccola",
+     "lastPos": "Via Aliberti, Vinovo",
+     "lat": 44.9443,
+     "lng": 7.63735,
+     "number": "+39 332 455 7875",
+     "reportDate": "2026-04-22"
     },
     {
-      "id": 2,
-      "nome": "Moka",
-      "tipo": "gatto",
-      "anni": 4,
-      "foto": "https://cdn2.thecatapi.com/images/3lo.jpg",
-      "descrizione": "gatto piccola taglia, tigrato, pelo disfatto",
-      "ultimaPosizione": "Corso Italia, Nichelino",
-      "ultimaPosizioneLatLong": [44.9934, 7.6451],
-      "contatto": "+39 333 114 9024",
-      "dataSegnalazione": "2026-04-25"
+     "id": "MISS02",
+     "name": "Moka",
+     "type": "gatto",
+     "age": 4,
+     "image": "https://cdn2.thecatapi.com/images/3lo.jpg",
+     "desc": "gatto piccola taglia, tigrato, pelo disfatto",
+     "lastPos": "Via Valetti, Vinovo",
+     "lat": 44.949351,
+     "lng": 7.644012,
+     "number": "+39 333 114 9024",
+     "reportDate": "2026-04-25"
     },
-    {
-      "id": 3,
-      "nome": "Whiskey",
-      "tipo": "gatto",
-      "anni": 9,
-      "foto": "https://cdn2.thecatapi.com/images/f4.jpg",
-      "descrizione": "gatto arancione chiaro, con striature bianche",
-      "ultimaPosizione": "Via Garibaldi, Torino",
-      "ultimaPosizioneLatLong": [45.0738, 7.6852],
-      "contatto": "+39 345 333 6279",
-      "dataSegnalazione": "2026-04-27"
-    },
-    {
-      "id": 4,
-      "nome": "Ariete",
-      "tipo": "cane",
-      "anni": 2,
-      "foto": "https://images.dog.ceo/breeds/beagle/n02088364_2652.jpg",
-      "descrizione": "beagle piccolo, molto spaventato",
-      "ultimaPosizione": "Via Molinette, Moncalieri",
-      "ultimaPosizioneLatLong": [44.9981, 7.6891],
-      "contatto": "+39 366 134 6558",
-      "dataSegnalazione": "2026-04-30"
-    },
-    {
-      "id": 5,
-      "nome": "Nerone",
-      "tipo": "gatto",
-      "anni": 7,
-      "foto": "https://cdn2.thecatapi.com/images/tJbzb7FKo.jpg",
-      "descrizione": "gatto affabile color marrone, pelo striato",
-      "ultimaPosizione": "Via Muschietto, Carignano",
-      "ultimaPosizioneLatLong": [44.9087, 7.6831],
-      "contatto": "+39 347 882 1808",
-      "dataSegnalazione": "2026-05-03"
-    },
-    {
-      "id": 6,
-      "nome": "Bambi",
-      "tipo": "cane",
-      "anni": 1,
-      "foto": "https://images.dog.ceo/breeds/labrador/n02099712_7133.jpg",
-      "descrizione": "labrador cucciolo, colore molto chiaro",
-      "ultimaPosizione": "Parco i Salti, Torino",
-      "ultimaPosizioneLatLong": [44.9876, 7.6443],
-      "contatto": "+39 331 899 5617",
-      "dataSegnalazione": "2026-05-04"
-    },
-    {
-      "id": 7,
-      "nome": "Scheggia",
-      "tipo": "cane",
-      "anni": 5,
-      "foto": "https://images.dog.ceo/breeds/akita/An_Akita_Inu_resting.jpg",
-      "descrizione": "akita taglia grande, colore marrone",
-      "ultimaPosizione": "Via Ginevro, Carignano",
-      "ultimaPosizioneLatLong": [44.9092, 7.6803],
-      "contatto": "+39 356 878 3313",
-      "dataSegnalazione": "2026-05-07"
-    },
-    {
-      "id": 8,
-      "nome": "Sole",
-      "tipo": "gatto",
-      "anni": 10,
-      "foto": "https://cdn2.thecatapi.com/images/bum.jpg",
-      "descrizione": "gatto marrone chiaro, occhi verdi",
-      "ultimaPosizione": "Piazza San Salvario, La loggia",
-      "ultimaPosizioneLatLong": [44.9603, 7.7011],
-      "contatto": "+39 320 556 7193",
-      "dataSegnalazione": "2026-05-09"
+   {
+     "id": "MISS03",
+     "name": "Whiskey",
+     "type": "gatto",
+     "age": 9,
+     "image": "https://cdn2.thecatapi.com/images/f4.jpg",
+     "desc": "gatto arancione chiaro, con striature bianche",
+     "lastPos": "Via Puccini, La Loggia",
+     "lat": 44.95809,
+     "lng": 7.67275,
+     "number": "+39 345 333 6279",
+     "reportDate": "2026-04-27"
+   },
+   {
+     "id": "MISS04",
+     "name": "Ariete",
+     "type": "cane",
+     "age": 2,
+     "image": "https://images.dog.ceo/breeds/beagle/n02088364_2652.jpg",
+     "desc": "beagle piccolo, molto spaventato",
+     "lastPos": "Via Speranza, Carignano",
+     "lat": 44.912372,
+     "lng": 7.674491,
+     "number": "+39 366 134 6558",
+     "reportDate": "2026-04-30"
+   },
+   {
+     "id": "MISS05",
+     "name": "Nerone",
+     "type": "gatto",
+     "age": 7,
+     "image": "https://cdn2.thecatapi.com/images/tJbzb7FKo.jpg",
+     "desc": "gatto affabile color marrone, pelo striato",
+     "lastPos": "Via Campassi, La Loggia",
+     "lat": 44.9457,
+     "lng": 7.66771,
+     "number": "+39 347 882 1808",
+     "reportDate": "2026-05-03"
+   },
+   {
+     "id": "MISS06",
+     "name": "Bambi",
+     "type": "cane",
+     "age": 1,
+     "image": "https://images.dog.ceo/breeds/labrador/n02099712_7133.jpg",
+     "desc": "labrador cucciolo, colore molto chiaro",
+     "lastPos": "Strada Olmi, Sabbioni",
+     "lat": 45.0314,
+     "lng": 7.6602,
+     "number": "+39 331 899 5617",
+     "reportDate": "2026-05-04"
+   },
+   {
+     "id": "MISS07",
+     "name": "Scheggia",
+     "type": "cane",
+     "age": 5,
+     "image": "https://images.dog.ceo/breeds/akita/An_Akita_Inu_resting.jpg",
+     "desc": "akita taglia grande, colore marrone",
+     "lastPos": "Strada Olmi, Sabbioni",
+     "lat": 44.932659,
+     "lng": 7.673260,
+     "number": "+39 356 878 3313",
+     "reportDate": "2026-05-07"
+   },
+   {
+     "id": "MISS08",
+     "name": "Sole",
+     "type": "gatto",
+     "age": 10,
+     "image": "https://cdn2.thecatapi.com/images/bum.jpg",
+     "desc": "gatto marrone chiaro, occhi verdi",
+     "lastPos": "Via Della Chiesa, La loggia",
+     "lat": 44.9569,
+     "lng": 7.6641,
+     "number": "+39 320 556 7193",
+     "reportDate": "2026-05-09"
     }
   ]
 }
